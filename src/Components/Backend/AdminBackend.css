@@ -1,0 +1,23 @@
+.admin-nav-bar{
+background-color: #fff;
+}
+.add-event-form {
+    padding: 100px 50px 100px 50px;
+}
+nav.side-nav-links ul li {
+    list-style: none;
+    color: #333;
+    font-weight: 600;
+    display:flex;
+    align-items: center;
+}
+nav.side-nav-links ul li:hover{
+    text-decoration: underline;
+}
+nav.side-nav-links ul li p {
+    padding-left: 10px;
+    line-height: 10px;
+}
+nav.side-nav-links {
+    padding-top: 100px;
+}

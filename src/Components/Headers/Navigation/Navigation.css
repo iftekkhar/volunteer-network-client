@@ -1,0 +1,10 @@
+.nav-links ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+  }
+  .nav-links ul a {
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+  }

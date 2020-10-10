@@ -1,0 +1,12 @@
+.user-event-lists {
+    display: flex;
+    padding: 20px;
+}
+.event-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.event-details span{
+    font-weight: 500;
+}

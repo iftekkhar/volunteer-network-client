@@ -1,0 +1,17 @@
+.event-list-img{
+min-height: 300px !important;
+}
+.event-list-title{
+    background-color: #333;
+    padding: 16px;
+    color: #fff;
+    text-transform: capitalize;
+}
+.event-list-title h2{
+text-align: center;
+text-decoration: none;
+text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,80 @@
+
+  
+  /* .auth-section {
+
+  } */
+  .login-section {
+    border: 1px solid #ababab;
+    padding: 100px 50px 120px 50px;
+    text-align: center;
+  }
+  .form-utility {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .form-utility span,
+  .form-utility label a {
+    font-size: 14px !important;
+    font-family: Montserrat !important;
+  }
+  .form-utility label a {
+    color: #f9a51a;
+  }
+  .create-account {
+    text-align: center;
+    margin-top: 15px;
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .create-account a {
+    color: #f9a51a;
+  }
+  .section-break {
+    text-align: center;
+    position: relative;
+    width: 50px;
+    background: #fff;
+    margin: 20px auto;
+  }
+  .section-break:before {
+    content: "";
+    width: 250px;
+    height: 1px;
+    background: #aaa;
+    z-index: -2;
+    position: absolute;
+    top: 50%;
+    left: 0;
+  }
+  .section-break:after {
+    content: "";
+    width: 250px;
+    height: 1px;
+    background: #aaa;
+    z-index: -2;
+    position: absolute;
+    top: 50%;
+    right: 0;
+  }
+  .social-login-section{
+    margin: 0 auto;
+      text-align: center;;
+  }
+  .button-orange-outlined {
+    border-radius: 50px !important;
+    padding: 13px !important;
+    width: 400px !important;
+    margin: 5px auto !important;
+    text-transform: capitalize !important;
+  }
+  .social-login{
+  position: relative;
+  }
+  .social-login img {
+    position: absolute;
+    left: 7px;
+    bottom: 7px;
+  }
